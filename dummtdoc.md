@@ -11,3 +11,7 @@ a pull request from somewhere else.
 Now let's rock and ROLL!. This thing will be summited to a pull request.
 
 So and so.
+
+And now a new line to pull
+
+So this is a new thingy updated after the pull request.
